@@ -46,8 +46,7 @@ To provide the model with more context than just the price, two technical indica
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/Y-Harsha-Vardhan/Stock-Price-Prediction-Using-LSTM.git
     ```
 
 2.  **Install Dependencies**:
@@ -80,5 +79,5 @@ To provide the model with more context than just the price, two technical indica
 
 ## 📝 Author
 
--   [Your Name]
--   [Link to your GitHub profile]
+-   Y Harsha Vardhan
+-   [GitHub Profile](https://github.com/Y-Harsha-Vardhan)
